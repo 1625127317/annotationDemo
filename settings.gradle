@@ -1,0 +1,1 @@
+include ':app', ':viewmodel-annotation', ':viewmodel-compiler', ':viewmodel-api', ':viewmodel-api'
